@@ -1,4 +1,6 @@
-# Hi there 👋, I'm He! 😄
+# Hi there! 👋 I'm Lixingming😄
+
+## 🚀 About Me
 
 I'm a **PhD student** specializing in **Large Language Models (LLMs)** with a particular focus on **hallucination detection and mitigation**. My research aims to enhance the reliability and trustworthiness of AI systems by developing novel approaches to identify and reduce hallucinations in large language models.
 
@@ -27,18 +29,6 @@ I'm a **PhD student** specializing in **Large Language Models (LLMs)** with a pa
 - Model Evaluation & Benchmarking
 - Multimodal AI Systems
 
-#### Programming & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD43B?style=for-the-badge&logo=huggingface&logoColor=black)
-
-#### Development Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 ---
 
 ### 📚 Publications & Research
@@ -49,9 +39,8 @@ I'm a **PhD student** specializing in **Large Language Models (LLMs)** with a pa
 ---
 
 ### 📫 Get in Touch
-- Email: [hexixiang@nudt.edu.cn](mailto:hexixiang@nudt.edu.cn)
-- GitHub: [hexixiang](https://github.com/hexixiang)
-- CSDN Blog: [My Technical Blog](https://blog.csdn.net/weixin_45507599?type=blog)
+- Email: [lixingming@nudt.edu.cn](mailto:lixingming@nudt.edu.cn)
+- GitHub: [Lixingming](https://github.com/Lixingming18)
 
 ---
 
