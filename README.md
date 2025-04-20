@@ -45,12 +45,12 @@ I'm a **PhD student** specializing in **Large Language Models (LLMs)** with a pa
 ---
 
 ### 📊 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=hexixiang&show_icons=true&theme=transparent)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lixingming18&show_icons=true&theme=transparent)
 
 ---
 
 ### 👥 Visitors
-You are my ![Visitor Count](https://profile-counter.glitch.me/hexixiang/count.svg) visitor! Thank you for stopping by! 😄💖
+You are my ![Visitor Count](https://profile-counter.glitch.me/Lixingming18/count.svg) visitor! Thank you for stopping by! 😄💖
 
 ---
 
